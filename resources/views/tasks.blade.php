@@ -63,7 +63,6 @@
       </button>
     </form>
   </td>
-</tr>
 					<td>&nbsp;</td>
 				    </tr>
 				@endforeach
